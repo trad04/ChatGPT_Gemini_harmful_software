@@ -10,7 +10,7 @@ The contents consist of excel files and malware software applications. Each fold
 
 ## Disclaimer 
 
-Please be extremely careful before you execute the code or view any of its content. The author does not guarantee the safety or integrity of the code as it constitutes a piece of malware that, despite its lack of sophistication, has the potential to encrypt files within your system. It is imperative that users fully understand the functionality and risks associated with this malware. The author explicitly disclaims any liability for problems or damages that may arise as a result of using or interacting with the malware, given that users have been forewarned of its harmful capabilities. Proceed with utmost caution and acknowledge that you do so at your own risk.
+Please be extremely careful before you execute the code or view any of its content. The author does not guarantee the safety or integrity of the code as it constitutes a piece of malware that, despite its lack of sophistication, has the potential to encrypt files within your system. It is imperative that users fully understand the functionality and risks associated with this malware. Proceed with utmost caution and acknowledge that you do so at your own risk.
 
 ## Functionality
 
