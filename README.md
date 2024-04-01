@@ -23,4 +23,4 @@ Whereas Gemini version searches from root.
 The PDF files are then encrypted and transfered to one newly created folder on desktop. 
 Additionaly a ransom note in txt file is created in this folder.
 
-The execution of the malware is not shown and the user should be able to know that it even was executed or being ran in the background.
+The execution of the malware is not shown and the user shouldn't be able to know that it was even executed or is being ran in the background.
